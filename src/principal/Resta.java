@@ -14,5 +14,6 @@ import javax.swing.JOptionPane;
 public class Resta {
     public void mensaje2(){
         JOptionPane.showMessageDialog(null, "Esta clase esta restando");
+        JOptionPane.showMessageDialog(null, "Mensaje de edicio");
     }
 }
